@@ -60,3 +60,40 @@ This portfolio is actively being updated as I progress in my cybersecurity journ
 ## 📜 License
 
 This project is licensed under the MIT License.
+
+
+
+# 🧪 Lab: Introduction to Cybersecurity – TryHackMe
+
+## 🔍 Lab Overview
+
+This introductory lab covers basic cybersecurity principles such as the CIA triad, types of malware, attack vectors, and simple defense mechanisms. Great for beginners building foundational knowledge.
+
+## 🛠 Platform
+
+- *TryHackMe*  
+- Room: [Introduction to Cybersecurity](https://tryhackme.com/room/introtoinfosec)
+
+## 📚 Key Concepts Learned
+
+- *CIA Triad*: Confidentiality, Integrity, Availability  
+- Types of threats: malware, phishing, ransomware  
+- Basic terminology: threat, vulnerability, risk  
+- How hackers find and exploit vulnerabilities  
+- Importance of patching and updates
+
+## 🧰 Tools Used
+
+- Web-based VM provided by TryHackMe  
+- Linux command-line basics  
+- Basic analysis of logs and ports
+
+## 💡 What I Learned
+
+- How a simple attack chain is constructed  
+- Why social engineering is still so effective  
+- Importance of continuous monitoring in security
+
+## ✅ Status
+
+✅ Completed – [Date]
